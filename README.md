@@ -1,4 +1,4 @@
-#PROJECT PRINTF FUNCTION 
+# PROJECT PRINTF FUNCTION 
 printf(). 
 Repository: printf
 Collaborators: Chukwuebuka Kizito Duru and Monica Aneke 
